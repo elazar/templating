@@ -569,7 +569,8 @@ Tooling around template engines:
 
  - **Twig**
    - [twig2latte](https://twig2latte.nette.org/) Twig to Latte converter
-   - [twigfiddle](https://twigfiddle.com/) Twig Fiddle
+   - [twigfiddle](https://twigfiddle.com/) Twig Fiddle -> now Symfony Twig Playground
+   - [Symfony Twig Playground](https://twig.symfony.com/play) Twig Playground
    - [VincentLanglet/Twig-CS-Fixer](https://github.com/VincentLanglet/Twig-CS-Fixer)
    - [twigstan](https://github.com/twigstan/twigstan) PHPStan for Twig
    - [symfony-twig-lint](https://github.com/symfony/twig-bridge/blob/05e3128cb875e9f21d18c5af2354293cd1dec010/Command/LintCommand.php#L39) `bin/console lint:twig`
